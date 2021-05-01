@@ -55,9 +55,12 @@ export default function SearchMovie() {
                   <small> RELEASE DATE: {movie.release_date}</small>
                 </p>
                 <p className='card-paragraph'>
-                  <small> RATING: {movie.vote_average}</small>
+                  <small>
+                    {' '}
+                    RATING: <strong>{movie.vote_average}</strong>
+                  </small>
                 </p>
-                <p className="card-desc">{movie.overview}</p>
+                <p className='card-desc'>{movie.overview}</p>
               </div>
             </div>
           ))}
