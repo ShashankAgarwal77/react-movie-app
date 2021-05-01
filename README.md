@@ -1,6 +1,6 @@
 # React Movie App
 
-Created this ⚛️  React Movie Information Search Application to learn the core fundamentals of the ReactJS and API Fetching.
+Created this ⚛️ React Movie Information Search Application to learn the core fundamentals of the ReactJS and API Fetching.
 
 ### The Structure of Thinking Process while developing the Application
 
@@ -16,5 +16,9 @@ Created this ⚛️  React Movie Information Search Application to learn the cor
 1. Style the Movie Cards
 1. Create the Movie Card Component
    - To make a better file structure
+
+### You can check the Live Preview of the Website.
+
+[React Movie App](https://react-movies-application.netlify.app/)
 
 ## That's All
