@@ -1,6 +1,6 @@
 # React Movie App
 
-Created this ⚛️ React Movie Information Search Application to learn the core fundamentals of the ReactJS and API Fetching.
+Created this ⚛️  React Movie Information Search Application to learn the core fundamentals of the ReactJS and API Fetching.
 
 ### The Structure of Thinking Process while developing the Application
 
@@ -17,4 +17,4 @@ Created this ⚛️ React Movie Information Search Application to learn the core
 1. Create the Movie Card Component
    - To make a better file structure
 
-##That's All
+## That's All
